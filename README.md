@@ -1,4 +1,7 @@
-# hello-world
-Just another repository 
+hello-world
+-----------
+-----------
 
-First repository on Github as an experiment and for learning.
+Hi everyone,
+I'm Naveed, I love beautifully performing code and beautifully tasting coffee.
+I have to say that chocolate must be one of the best things in life. 
